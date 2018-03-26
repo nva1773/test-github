@@ -2,5 +2,8 @@
 
 void main(void)
 {
- while(1) continue;
+ while(1)
+ {
+   Clrwdt();
+ }
 }
